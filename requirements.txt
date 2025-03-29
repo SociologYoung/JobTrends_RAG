@@ -1,0 +1,6 @@
+selenium
+openai
+numpy
+pymongo
+chromadb
+sentence-transformers
